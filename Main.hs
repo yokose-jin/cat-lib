@@ -1,0 +1,1 @@
+data Obj = A | B | C | D | E | W | X | Y | Z deriving (Show, Eq)
